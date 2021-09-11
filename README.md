@@ -1,1 +1,3 @@
-Use `npm instal` to run the project
+## Advanced SASS-CSS learning project
+
+Link: https://travel-booking-artsiom.netlify.app/
